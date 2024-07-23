@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">Заголовок</string>
+    <string name="add_notes">Информация:</string>
+    <string name="content">Информация</string>
+    <string name="date">Дата</string>
+    <string name="search">Поиск</string>
+    <string name="pin_unpin">Закрепить/Открепить</string>
+    <string name="delete">Удалить</string>
+    <string name="toAdd">Напишите что-нибудь, прежде чем сохранять</string>
+    <string name="deleted">Заметка удалена!</string>
+    <string name="cancel">Отменить</string>
+    <string name="sure">Вы уверены что хотите удалить заметку?</string>
+    <string name="info">Настройки</string>
+    <string name="create">"Дата создания: "</string>
+    <string name="toast">Заметка закреплена</string>
+    <string name="note">Заметка</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="add">Добавить новую заметку</string>
+    <string name="deleteAll">Удалить все заметки</string>
+</resources>
